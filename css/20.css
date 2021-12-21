@@ -110,32 +110,3 @@ ul#bo{
 #bo img{ 
     margin: 17px 5px;
 }
-@media screen and (max-width:800px)  {
-    #wrapper #header {
-        width: 100%;
-        display: inline-block;
-    }
-    #wrapper #header #mainmenu {
-        width: 100%;
-    }
-    #ngang {
-        width: 100%;
-        display: inline-block;
-    }
-    #chu {
-        width: 100%;
-        display: inline-block;
-    }
-    #yune {
-        width: 100%;
-        display: inline-block;
-    }
-    #ra {
-        width: 100%;
-        display: inline-block;
-    }
-    #yasuo {
-        width: 100%;
-        display: inline-block;
-    }
-}
